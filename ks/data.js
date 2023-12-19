@@ -1,7 +1,7 @@
 var mediaData = {
     authors: {
-        picUrl: ["images/20213583万一苇计算机科学与技术1班.jpg", "images/刘鑫1.jpg","images/李俊1.jpg" ,"images/杨益1.jpg"],
-        names: ["万一苇", "刘鑫","李俊","杨益"],
+        picUrl: ["images/李健宏.jpg","images/20213583万一苇计算机科学与技术1班.jpg", "images/刘鑫1.jpg","images/李俊1.jpg" ,"images/杨益1.jpg"],
+        names: ["李健宏","万一苇", "刘鑫","李俊","杨益"],
     },
     /*  audioPath: "d:/media/mp3Files/", */
     audioPath: "https://jxzy-dmxy.jxstnu.edu.cn/",
